@@ -124,7 +124,7 @@ Total de membros únicos alocados
 
 
 # Clone o repositório
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/gguedes00/GestaoDeProjetos.git
 
 ## Acesse a pasta do projeto
 cd nome-do-repo
