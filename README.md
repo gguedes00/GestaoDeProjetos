@@ -38,11 +38,11 @@ Previsão de término
 
 Data real de término
 
-Orçamento total (BigDecimal)
+Orçamento total
 
 Descrição
 
-Gerente responsável (relacionado à entidade membro)
+Gerente responsável
 
 Status atual
 
@@ -129,7 +129,7 @@ Total de membros únicos alocados
 git clone https://github.com/gguedes00/GestaoDeProjetos.git
 
 ## Acesse a pasta do projeto
-cd nome-do-repo
+cd nome-do-diretorio
 
 ## Configure o banco de dados PostgreSQL (arquivo application.yml)
 
@@ -152,6 +152,7 @@ Senha: admin123
 ## Para executar os testes
 
 ./mvnw test
+
 Cobertura mínima de 70% nas regras de negócio.
 
 ## 📚 Documentação da API
