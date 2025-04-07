@@ -1,4 +1,4 @@
-## 📊 Projeto de Gestão de Portfólio de Projetos
+# 📊 Projeto de Gestão de Portfólio de Projetos
 
 Este é um sistema de gestão de projetos desenvolvido como desafio prático para consolidar conhecimentos em Java, Spring Boot, JPA/Hibernate e boas práticas de arquitetura e desenvolvimento. O foco é simular um ambiente corporativo com regras de negócio reais e complexas.
 
@@ -23,6 +23,7 @@ Segurança básica com Spring Security (usuário/senha em memória)
 Paginação e filtros para listagem de projetos
 
 # 🧐 Regras de Negócio
+
 
 ## Projeto
 
@@ -123,7 +124,7 @@ Total de membros únicos alocados
 # ⚙️ Como executar o projeto
 
 
-# Clone o repositório
+## Clone o repositório
 git clone https://github.com/gguedes00/GestaoDeProjetos.git
 
 ## Acesse a pasta do projeto
@@ -145,6 +146,7 @@ Senha: admin123
 
 
 # 🧪 Testes
+
 
 ## Para executar os testes
 
