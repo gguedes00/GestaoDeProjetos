@@ -1,3 +1,4 @@
+
 # 📊 Projeto de Gestão de Portfólio de Projetos
 
 Este é um sistema de gestão de projetos desenvolvido como desafio prático para consolidar conhecimentos em Java, Spring Boot, JPA/Hibernate e boas práticas de arquitetura e desenvolvimento. O foco é simular um ambiente corporativo com regras de negócio reais e complexas.
